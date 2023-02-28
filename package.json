@@ -1,0 +1,15 @@
+{
+  "name": "technofutur---mobile---2022---2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "graphpack",
+    "prod" : "graphpack build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
